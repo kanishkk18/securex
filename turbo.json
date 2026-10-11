@@ -19,7 +19,8 @@
     "ADMIN_APP_URL",
     "RESEND_API_KEY",
     "RESEND_FROM_EMAIL",
-    "NODE_ENV"
+    "NODE_ENV",
+    "NEXT_PUBLIC_MAX_UPLOAD_SIZE_MB"
   ],
   "tasks": {
     "build": {
